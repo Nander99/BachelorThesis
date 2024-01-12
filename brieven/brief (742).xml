@@ -1,0 +1,180 @@
+<file>
+<doc>
+Myn	NOU	mijnheer
+Heer	NOU	mijnheer
+DHeer	ART_NOU	de_heer
+Joannes	NEPER	Johannes
+Andreas	NEPER	Andreas
+Goebel	NEPER	Goebel
+Te	ADP	te
+Amsterdam	NELOC	Amsterdam	2759794
+p	ADP	per
+Capn	NOU	kapitein
+Jan	NEPER	Jan
+Rousman	NEPER	Rousman
+d.G.G.	PRN_NEPER_VRB	die_God_geleiden
+DHeer	ART_NOU	de_heer
+J.A.	NEPER_NEPER	J._A.
+Goebel	NEPER	Goebel
+te	ADP	te
+Amstdam	NELOC	Amsterdam	2759794
+St.	NELOC	Sint	Eustatius	7626844
+Eustatius	NELOC	Sint	Eustatius	7626844
+den	ART	de
+20.	NUM	twintigste
+Novem.	NOU	november
+1780	NUM	zeventienhonderdtachtig
+Myn	NOU	mijnheer
+Heer	NOU	mijnheer
+Op	ADP	op
+den	ART	de
+6	NUM	zesde
+deeses,	PRN	deze
+hebben	VRB	hebben
+wy	PRN	wij
+de	ART	de
+Eer	NOU	eer
+gehad,	VRB	hebben
+Laast	ADV	laatst
+aan	ADP	aan
+uE.	PRN	ue.
+te	ADP	te
+schryven;	VRB	schrijven
+waar	ADV	waarmee
+mede	ADV	waarmee
+wy	PRN	wij
+aan	ADP	aan
+uE.	PRN	ue.
+melding	NOU	melding
+gedaan	VRB	doen
+hebben,	VRB	hebben
+weegens	ADP	wegens
+’t	ART	het
+droevig	ADJ	droevig
+ongeval,	NOU	ongeval
+aan	ADP	aan
+’t	ART	het
+schip	NOU	schip
+de	ART	de
+Jonge	NEOTHER	Jonge	Pieter
+Pieter	NEOTHER	Jonge	Pieter
+Cap.n	NOU	kapitein
+Jan	NEPER	Jan
+Roelofs	NEPER	Roelofs
+de	NEPER	De	Groot
+Groot,	NEPER	De	Groot
+voorgevallen;	VRB	voorvallen
+Zeederd	ADV	sedert
+hebben	VRB	hebben
+wy	PRN	wij
+twee	NUM	twee
+brieven	NOU	brief
+van	ADP	van
+gem:	ADJ	gemeld
+Cap.n	NOU	kapitein
+de	NEPER	De	Groot
+Groot	NEPER	De	Groot
+bekomen,	VRB	bekomen
+waar	ADV	waarvan
+van	ADV	waarvan
+wy,	PRN	wij
+aan	ADP	aan
+onze	PRN	ons
+geassocieerdens,	NOU	geassocieerde
+per	ADP	per
+deeze	PRN	deze
+geleegentheid	NOU	gelegenheid
+deszelfs	PRN	dezelve
+copyen	NOU	kopie
+toe	VRB	toezenden
+zenden:	VRB	toezenden
+benevens	ADP	benevens
+copyen	NOU	kopie
+van	ADP	van
+onze	PRN	ons
+antwoord	NOU	antwoord
+op	ADP	op
+dezelve	PRN	dezelve
+gegeeven;	VRB	geven
+UE	PRN	ue.
+kunt	VRB	kunnen
+dierhalve	ADV	derhalve
+by	ADP	bij
+hun,	PRN	zij
+omstandig	ADV	omstandig
+van	ADP	van
+alle	PRN	al
+’t	PRN	hetgeen
+gunt	PRN	hetgeen
+deeze	PRN	deze
+droevige	ADJ	droevig
+affaire	NOU	affaire
+Concerneert,	VRB	concerneren
+Behoorlyk	ADV	behoorlijk
+ge-instrueerd	VRB	instrueren
+werden	VRB	worden
+’t	PRN	hetgeen
+geen	PRN	hetgeen
+wel	ADV	wel
+wenschte	VRB	wensen
+nooit	ADV	nooit
+en	ADV	ne
+waare	VRB	zijn
+geschied.	VRB	geschieden
+Inclosa	ADJ	inclosa
+geword	VRB	geworden
+uE.	PRN	ue.
+Een	ART	een
+Brief	NOU	brief
+ter	ADP	te
+UE:	PRN	ue.
+adresse	NOU	adres
+van	ADP	van
+reeds	ADV	reeds
+gemd:	ADJ	gemeld
+Capn.	NOU	kapitein
+J.R.	NEPER_NEPER	J._R.
+de	NEPER	De	Groot
+Groot;	NEPER	De	Groot
+als	CON	alsook
+ook	CON	alsook
+nog	ADV	nog
+Een	ART	een
+Brief	NOU	brief
+voor	ADP	voor
+dheer	ART_NOU	de_heer
+Pieter	NEPER	Pieter
+vernim	NEPER	Vernimmen
+-men	NEPER	Vernimmen
+te	ADP	te
+Dordrecht,	NELOC	Dordrecht	2756669
+door	ADP	door
+ons	PRN	wij
+geschreeven,	VRB	schrijven
+dewelke	PRN	dewelke
+wy	PRN	wij
+verzoeke	VRB	verzoeken
+uE.	PRN	ue.
+gelieve	VRB	gelieven
+zult	VRB	zullen
+te	ADP	te
+doen	VRB	doen
+vervaardigen:	VRB	vervaardigen
+In	ADP	in
+welkers	PRN	welk
+verwagting,	NOU	verwachting
+hebben	VRB	hebben
+wy	PRN	wij
+de	ART	de
+Eer	NOU	eer
+met	ADP	met
+opregte	ADJ	oprecht
+agting	NOU	achting
+teverblyve	ADP_VRB	te_verblijven
+Myn	NOU	mijnheer
+Heer	NOU	mijnheer
+UEDWDienaaren	PRN_NOU_ADJ_NOU	u_edele_dienstwillig_dienaar
+Gebroeders	NOU	gebroeders
+Mendes	NEPER	Mendes
+</doc>
+</file>

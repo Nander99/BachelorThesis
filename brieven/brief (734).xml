@@ -1,0 +1,76 @@
+<file>
+<doc>
+Mijn	NOU	mijnheer
+Heer	NOU	mijnheer
+D’heer	ART_NOU	de_heer
+Wm	NEPER	Willem
+L:	NEPER	L.
+Ballak.	NEPER	Ballak
+addres	NOU	adres
+D’Hr	ART_NOU	de_heer
+Arent	NEPER	Arend
+van	NEPER	Van	Asseld
+Asseld	NEPER	Van	Asseld
+woont	VRB	wonen
+in	ADP	in
+de	ART	de
+Huyszitten	NELOC	Huiszittensteeg	0
+steeg.	NELOC	Huiszittensteeg	0
+á	ADP	à
+Amsterdam	NELOC	Amsterdam	2759794
+met	ADP	met
+Capt.	NOU	kapitein
+Rousman	NEPER	Rousman
+D:	PRN	die
+G:	NEPER	God
+G:	VRB	geleiden
+St	NELOC	Sint	Eustatius	7626844
+Eustatius	NELOC	Sint	Eustatius	7626844
+den	ART	de
+19	NUM	negentiende
+9ber	NOU	november
+1780	NUM	zeventienhonderdtachtig
+Zeer	ADV	zeer
+waarde	ADJ	waard
+Vriend!	NOU	vriend
+Gij	PRN	gij
+vaard	VRB	welvaren
+nog	ADV	nog
+wel!	VRB	welvaren
+ik	PRN	ik
+ook	ADV	ook
+god	INT	godlof
+lof.	INT	godlof
+in	NOU	inlage
+laage	NOU	inlage
+versoeke	VRB	verzoeken
+aan	ADP	aan
+zijne	PRN	zijn
+addresse	NOU	adres
+te	ADP	te
+besorgen	VRB	bezorgen
+UEd:	PRN	ue.
+zal	VRB	zullen
+hem	PRN	hij
+ook	ADV	ook
+zeeker	ADJ	zeker
+te	ADP	te
+leesen	VRB	lezen
+bekoomen	VRB	bekomen
+groet	VRB	groeten
+alle	PRN	al
+vriende	NOU	vriend
+adieu	INT	adieu
+ik	PRN	ik
+ben	VRB	zijn
+Mijn	PRN	mijn
+waarde	ADJ	waard
+vriend	NOU	vriend
+UEd:	PRN	ue.
+Vriend	NOU	vriend
+&	CON	en
+Dienaar	NOU	dienaar
+G.LC.	NEPER_NEPER_NEPER	G._L._C.
+Scriba	NEPER	Scriba
+</doc>
+</file>

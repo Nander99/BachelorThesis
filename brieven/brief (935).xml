@@ -1,0 +1,501 @@
+<file>
+<doc>
+deesen	PRN	deze
+brief	NOU	brief
+salmen	VRB_PRN	zullen_men
+bestellen	VRB	bestellen
+tot	ADP	tot
+meedenblick	NELOC	Medemblik	2751073
+in	ADP	in
+wapen	NEOTHER	Wapen	van	Hoorn
+Van	NEOTHER	Wapen	van	Hoorn
+hoorn	NEOTHER	Wapen	van	Hoorn
+voort	VRB	voortbestellen
+te	ADP	te
+bestellen	VRB	voortbestellen
+Aen	ADP	aan
+Luijkas	NEPER	Lukas
+Pruijs	NEPER	Pruijs
+schipper	NOU	schipper
+die	PRN	die
+godt	NEPER	God
+bewaer	VRB	bewaren
+Looft	VRB	loven
+Godt	NEPER	God
+booven	ADV	bovenal
+Al	ADV	bovenal
+den	ART	de
+13	NUM	dertiende
+jannewarij	NOU	januari
+Anno	ADV	anno
+1661	NUM	zestienhonderdeenenzestig
+Een	ART	een
+Vriendelijcke	ADJ	vriendelijk
+Groetenisse	NOU	groetenis
+sij	VRB	zijn
+geschreeven	VRB	schrijven
+Aen	ADP	aan
+mijn	PRN	mijn
+beminde	ADJ	bemind
+man	NOU	man
+Luijkas	NEPER	Lukas
+Pruijs	NEPER	Pruijs
+schipper	NOU	schipper
+ick	PRN	ik
+Lijsbet	NEPER	Elisabeth
+phlipsen	NEPER	Philipse	Amelingh
+UL	PRN	ul.
+huijsvrou	NOU	huisvrouw
+laet	VRB	laten
+u	PRN	u
+weeten	VRB	weten
+als	CON	alsdat
+dat	CON	alsdat
+wij	PRN	wij
+met	ADP	met
+u	PRN	uw
+soon	NOU	zoon
+noch	ADV	nog
+wel	ADV	wel
+te	ADP	te
+pas	NOU	pas
+sijn	VRB	zijn
+verhoopende	VRB	verhopen
+meede	ADV	mede
+UL	PRN	ul.
+gesontheijt	NOU	gezondheid
+waer	VRB	zijn
+het	PRN	het
+Anders	ADJ	anders
+het	PRN	het
+was	VRB	zijn
+meij	PRN	ik
+seer	ADV	zeer
+leet	ADJ	leed
+om	CON	om
+te	ADP	te
+hooren	VRB	horen
+Voerder	ADV	verder
+bidt	VRB	bidden
+ick	PRN	ik
+u	PRN	u
+dat	CON	dat
+gij	PRN	gij
+doch	ADV	doch
+Voortsichtijch	ADJ	voorzichtig
+sijt	VRB	zijn
+dat	CON	dat
+gij	PRN	gij
+doch	ADV	doch
+niet	ADV	niet
+uijt	VRB	uitgaan
+gaet	VRB	uitgaan
+sonder	ADP	zonder
+comvoeij	NOU	convooi
+Voort	ADV	voorts
+laet	VRB	laten
+ick	PRN	ik
+u	PRN	u
+weeten	VRB	weten
+Als	CON	alsdat
+dat	CON	alsdat
+ick	PRN	ik
+verschooten	VRB	verschieten
+heb	VRB	hebben
+ten	ADP_ART	te_het
+eersten	ADJ	eerst
+[...][...]
+Aen	ADP	aan
+de	ART	de
+Lichter	NOU	lichterman
+man	NOU	lichterman
+die	PRN	die
+met	ADP	met
+u	PRN	u
+na	ADP	naar
+tessel	NELOC	Texel	2746385
+geeweest	VRB	zijn
+heeft	VRB	hebben
+--
+--
+--
+--
+--
+--
+--
+4	NUM	vier
+gl	NOU	gulden
+--
+0	NUM	nul
+Aen	ADP	aan
+boeken	NOU	boek
+en	CON	en
+pampier	NOU	papier
+en	CON	en
+pennen	NOU	pen
+en	CON	en
+inck	NOU	inkt
+––
+3	NUM	-	3	-	0	-	3
+––
+0	NUM	-	3	-	0	-	3
+--
+0	NUM	-	3	-	0	-	3
+Aen	ADP	aan
+salm	NOU	psalmboek
+boecken	NOU	psalmboek
+en	CON	en
+preedickasieboeck	NOU	predikatieboek
+––
+5	NUM	-	5	-	0	-	15	-
+––
+0	NUM	-	5	-	0	-	15	-
+15	NUM	-	5	-	0	-	15	-
+––
+een	ART	een
+fles	NOU	fles
+met	ADP	met
+lamoen	NOU	limoensap
+sop	NOU	limoensap
+--
+--
+--
+--
+--
+--
+1	NUM	-	1	-	0	-
+--
+0	NUM	-	1	-	0	-
+--
+de	ART	de
+pot	NOU	pot
+daerde	ADV_ART	daarin_de
+botter	NOU	boter
+in	ADV_ART	daarin_de
+is	VRB	zijn
+en	CON	en
+het	ART	het
+--
+--
+--
+--
+Vaetien	NOU	vaatje
+daer	ADV	daarin
+het	ART	het
+speck	NOU	spek
+in	ADV	daarin
+is	VRB	zijn
+--
+--
+--
+0	NUM	-	0	-	15	-
+--
+15	NUM	-	0	-	15	-
+--
+Aen	ADP	aan
+engels	ADJ	Engels
+bockens	NOU	UNRESOLVED
+met	ADP	met
+het	ART	het
+mantien	NOU	mandje
+--
+2	NUM	twee
+--
+10	NUM	tien
+--
+2	NUM	twee
+brooden	NOU	brood
+suijker	NOU	suiker
+--
+--
+--
+--
+--
+--
+--
+--
+--
+2	NUM	twee
+--
+--
+--
+Aen	ADP	aan
+meester	NOU	meester
+jan	NEPER	Jan
+gegeaen	VRB	gaan
+--
+--
+--
+--
+--
+21	NUM	eenentwintig
+--
+17	NUM	zeventien
+--
+noch	ADV	nog
+Aen	ADP	aan
+de	ART	de
+ofslagh	NOU	afslag
+seel	NOU	ceel
+Vant	ADP_ART	van_het
+Vleijs	NOU	vlees
+--
+--
+12	NUM	twaalf
+--
+4	NUM	vier
+--
+noch	ADV	nog
+3	NUM	drie
+roemers	NOU	roemer
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+6	NUM	zes
+--
+noch	ADV	nog
+Aen	ADP	aan
+kerstengen	NOU?	karsteng
+--
+--
+--
+--
+--
+--
+1	NUM	een
+--
+--
+--
+[...][...]
+ende	CON	en
+hier	ADV	hier
+stuer	VRB	sturen
+ick	PRN	ik
+u	PRN	u
+hier	ADV	hier
+de	ART	de
+Vlag	NOU	vlag
+hier	ADV	hiervoor
+meet	VRB	moeten
+ick	PRN	ik
+voor	ADV	hiervoor
+betalen	VRB	betalen
+--
+26	NUM	zesentwintig
+--
+--
+--
+gelijck	CON	gelijk
+UL	PRN	ul.
+wel	ADV	wel
+weet	VRB	weten
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+en	CON	en
+wat	PRN	wat
+Aengaende	ADP	aangaande
+Van	ADP	van
+de	ART	de
+schuijten	NOU	schuit
+dat	PRN	dat
+staet	VRB	staan
+noch	ADV	nog
+soo	ADV	zo
+ick	PRN	ik
+sal	VRB	zullen
+daer	ADV	daartoe
+mannen	NOU	man
+toe	ADV	daartoe
+nemen	VRB	nemen
+die	PRN	die
+gij	PRN	gij
+geseght	VRB	zeggen
+hebt	VRB	hebben
+wij	PRN	wij
+sijn	VRB	zijn
+heel	ADV	heel
+wel	ADJ	weltevreden
+te	ADJ	weltevreden
+vreen	ADJ	weltevreden
+vader	NOU	vader
+en	CON	en
+moeder	NOU	moeder
+oock	ADV	ook
+doet	VRB	doen
+soe	ADV	zo
+veel	ADV	wel
+en	CON	en
+schrijft	VRB	schrijven
+mij	PRN	ik
+Van	ADP	van
+Alles	PRN	alles
+wat	PRN	wat
+Gij	PRN	gij
+Van	ADP	van
+doen	VRB	doen
+hebt	VRB	hebben
+sij	VRB	zijn
+Van	ADP	van
+wat	PRN	wat
+coman	NOU	koopmanschap
+schap	NOU	koopmanschap
+of	CON	of
+diergelijcken	PRN	dergelijk
+ende	CON	en
+weest	VRB	zijn
+niet	ADV	niet
+ongerust	ADJ	ongerust
+Van	ADP	vanwege
+weegen	ADP	vanwege
+dat	CON	dat
+ick	PRN	ik
+soo	PRN	zoveel
+veel	PRN	zoveel
+gelt	NOU	geld
+Aen	ADP	aan
+t’	ART	het
+Velijs	NOU	verlies?
+gegeven	VRB	geven
+heb	VRB	hebben
+want	CON	want
+soo	ADV	zo
+weesen	VRB	zijn
+most	VRB	moeten
+ick	PRN	ik
+wasser	VRB_ADV	zijn_erin
+ongerust	ADJ	ongerust
+in	VRB_ADV	zijn_erin
+mar	CON	maar
+gingh	VRB	gaan
+nae	ADP	naar
+duijsent	NEPER	Duijsent
+en	CON	en
+seyden	VRB	zeggen
+dat	CON	dat
+ick	PRN	ik
+soo	PRN	zoveel
+veel	PRN	zoveel
+geven	VRB	geven
+most	VRB	moeten
+en	CON	en
+hij	PRN	hij
+bevroeg	VRB	bevragen
+het	PRN	het
+hem	PRN	hij
+en	CON	en
+seijde	VRB	zeggen
+datmen	CON_PRN	dat_men
+geven	VRB	geven
+moet	VRB	moeten
+dat	PRN	dat
+moetmen	VRB_PRN	moeten_men
+geeven	VRB	geven
+en	CON	en
+gij	PRN	gij
+hadt	VRB	hebben
+geseijt	VRB	zeggen
+Van	ADP	van
+Wijn	NOU	wijn
+en	CON	en
+brandewijn	NOU	brandewijn
+maer	CON	maar
+duijsent	NEPER	Duijsent
+heeft	VRB	hebben
+teegen	ADP	tegen
+mijn	PRN	ik
+geseijt	VRB	zeggen
+dat	CON	dat
+hijt’Al	PRN_ADV	het_al
+bestelt	VRB	bestellen
+was	VRB	zijn
+daerom	ADV	daarom
+moet	VRB	moeten
+gij	PRN	gij
+noch	ADV	nog
+its	PRN	iets
+of	CON	of
+Aer	PRN	haar
+hebben	VRB	hebben
+soo	ADV	zo
+schrijft	VRB	schrijven
+sito	ADV	cito
+wat	PRN	wat
+gij	PRN	gij
+noch	ADV	nog
+Van	ADP	van
+doen	VRB	doen
+hebben	VRB	hebben
+niet	ADV	niet
+meer	ADV	meer
+op	ADP	op
+dat	CON	dat
+pas	NOU	pas
+dan	CON	dan
+sijt	VRB	zijn
+godt	NEPER	God
+in	ADP	in
+genaden	NOU	genade
+bevoolen	VRB	bevelen
+en	CON	en
+wensch	VRB	wensen
+u	PRN	u
+met	ADP	met
+u	PRN	uw
+soon	NOU	zoon
+veel	PRN	veel
+duijsent	NUM	duizend
+goede	NOU	goedenacht
+nacht	NOU	goedenacht
+en	CON	en
+Vader	NOU	vader
+en	CON	en
+moeder	NOU	moeder
+doen	VRB	doen
+u	PRN	u
+veel	PRN	veel
+duijsent	NUM	duizend
+goede	VRB	goedenachtzeggen
+nacht	VRB	goedenachtzeggen
+seggen	VRB	goedenachtzeggen
+swager	NOU	zwager
+en	CON	en
+suster	NOU	zuster
+doen	VRB	doen
+u	PRN	u
+duijsent	NUM	duizend
+goede	VRB	goedenachtzeggen
+nacht	VRB	goedenachtzeggen
+seggen	VRB	goedenachtzeggen
+en	CON	en
+wensen	VRB	wensen
+u	PRN	u
+heeren	NOU	Heer
+en	NOU	Heer
+seegen	NOU	zegen
+[…]	RES	UNRESOLVED
+onse	PRN	ons
+marretien	NEPER	Marretje
+stuert	VRB	sturen
+u	PRN	u
+hier	ADV	hier
+een	ART	een
+Vier	ADJ	vierkant
+kante	ADJ	vierkant
+koeck	NOU	koek
+</doc>
+</file>

@@ -1,0 +1,115 @@
+<file>
+<doc>
+A	ADP	à
+Myn	NOU	mijnheer
+Heer	NOU	mijnheer
+de	ART	de
+Heer	NOU	heer
+Coenraet	NEPER	Coenraat
+de	NEPER	De	Kuper
+kuper	NEPER	De	Kuper
+Coopman	NOU	koopman
+tot	ADP	tot
+Rotterdam	NELOC	Rotterdam	2747891
+pr	ADP	per
+Capt	NOU	kapitein
+Noster	NEPER	Noster
+D:G:G:L	PRN_NEPER_VRB	die_God_geleiden
+Mijn	NOU	mijnheer
+Heer	NOU	mijnheer
+Curacao	NELOC	Curaçao	7626836
+de	ART	de
+5	NUM	vijfde
+Janniwari	NOU	januari
+1781	NUM	zeventienhonderdeenentachtig
+Conraet	NEPER	Conraad
+de	NEPER	De	Kuper
+kuper	NEPER	De	Kuper
+Van	ADP	van
+UE	PRN	ue.
+goederen	NOU	goed
+hebben	VRB	hebben
+niet	PRN	niets
+meer	ADV	meer
+verkoft	VRB	verkopen
+als	CON	als
+16	NUM	zestien
+Bossi	NOU	bosje
+Zeylmakers	NOU	zeilmakersgaren
+Gaerren	NOU	zeilmakersgaren
+a	ADP	à
+6	NUM	zes
+ps	RES	ps
+de	ART	de
+bossi	NOU	bosje
+maekt	VRB	maken
+pesses	NOU	peso?
+96	NUM	zesennegentig
+geen	PRN	geen
+van	ADP	van
+UE	PRN	ue.
+goedere	NOU	goed
+meer	ADV	meer
+verkoft	VRB	verkopen
+als	CON	als
+de	ART	de
+barriken	NOU	bark
+die	PRN	die
+uyt	ADP	uit
+zyn	VRB	zijn
+tuys	VRB	thuiskomen
+komen	VRB	thuiskomen
+hoop	VRB	hopen
+ik	PRN	ik
+UE	PRN	ue.
+goederen	NOU	goed
+zal	VRB	zullen
+kennen	VRB	kunnen
+verkoopen	VRB	verkopen
+der	ADV	er
+is	VRB	zijn
+geen	PRN	geen
+trek	NOU	trek
+voor	ADP	voor
+het	ART	het
+teegewordigen	NOU?	tegenwoordige
+int	ADP_ART	in_het
+goedt	NOU	goed
+want	CON	want
+alles	PRN	alles
+is	VRB	zijn
+hier	ADV	hier
+op	VRB	opvullen
+gevuldt	VRB	opvullen
+ik	PRN	ik
+denk	VRB	denken
+int	ADP_ART	in_het
+laest	ADJ	laatst
+van	ADP	van
+februari	NOU	februari
+claer	ADJ	klaar
+te	ADP	te
+zijn	VRB	zijn
+het	PRN	het
+is	VRB	zijn
+hier	ADV	hier
+vol	ADJ	vol
+van	ADP	van
+scheepen	NOU	schip
+en	CON	en
+dat	PRN	dat
+bederreft	VRB	bederven
+de	ART	de
+vragte	NOU	vracht
+blijffen	VRB	blijven
+hier	ADV	hiermede
+meeden	ADV	hiermede
+mijn	NOU	mijnheer
+Heer	NOU	mijnheer
+UED	PRN	ue.
+DIENAER	NOU	dienaar
+Jan	NEPER	Jan
+de	NEPER	De	Jong
+Jong	NEPER	De	Jong
+</doc>
+</file>

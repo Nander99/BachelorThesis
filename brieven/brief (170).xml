@@ -1,0 +1,315 @@
+<file>
+<doc>
+Myn	NOU	mijnheer
+Heer	NOU	mijnheer
+De	ART	de
+Heer	NOU	heer
+J.M.	NEPER_NEPER	J._M.
+Van	NEPER	Van	Vloten
+Vloten	NEPER	Van	Vloten
+Boekverkoper	NOU	boekverkoper
+te	ADP	te
+Utrecht	NELOC	Utrecht	2745912
+onder	ADP	onder
+couvert	NOU	couvert
+Per	ADP	per
+Capt	NOU	kapitein
+C.	NEPER	C.
+Heide	NEPER	Heide
+’t	PRN	het
+schip	NOU	schip
+de	ART	de
+Jonge	NEOTHER	Jonge	Juffrouw	Rebecca
+Jufvrouw	NEOTHER	Jonge	Juffrouw	Rebecca
+Rebecca	NEOTHER	Jonge	Juffrouw	Rebecca
+D.G.G.	PRN_NEPER_VRB	die_God_geleiden
+d’Heer	ART_NOU	de_heer
+J.M.	NEPER_NEPER	J._M.
+Van	NEPER	Van	Vloten
+Vloten	NEPER	Van	Vloten
+a	ADP	à
+Utrecht	NELOC	Utrecht	2745912
+Myn	NOU	mijnheer
+Heer	NOU	mijnheer
+en	CON	en
+Mejufvrouw.	NOU	mejuffrouw
+Veel	ADV	veel
+Geliefde	ADJ	geliefd
+Neef	NOU	neef
+en	CON	en
+Nicht.	NOU	nicht
+Geluk	NOU	geluk
+met	ADP	met
+uw	PRN	uw
+voltrokke	ADJ	voltrokken
+Huuwlyk!	NOU	huwelijk
+leevt	VRB	leven
+lang	ADV	lang
+daar	ADV	daarin
+in	ADV	daarin
+te	ADV	tezamen
+samen	ADV	tezamen
+Wel	ADV	wel
+verEenigt,	ADJ	verenigd
+gezond,	ADJ	gezond
+gezeegent	VRB	zegenen
+en	CON	en
+Vergenoegt:	ADJ	vergenoegd
+maar	CON	maar
+vooral	ADV	vooral
+ook	ADV	ook
+Dankbaar:	ADV	dankbaar
+Zullende	VRB	zullen
+ik	PRN	ik
+my	PRN	mij
+altoos	ADV	altoos
+in	ADP	in
+Uwlieder	PRN	ulieden
+Welvaard	NOU	welvaart
+Verblyden,	VRB	verblijden
+en	CON	en
+uwer	PRN	u
+ten	ADP_ART	te_het
+goede	NOU	goed
+gedenke;	VRB	gedenken
+Zyt	VRB	zijn
+daar	ADV	daartoe
+toe	ADV	daartoe
+van	ADP	van
+myne	PRN	mijn
+Vriendschap	NOU	vriendschap
+Verzeekert,	ADJ	verzekerd
+en	CON	en
+onderhout	VRB	onderhouden
+dezelve	PRN	dezelve
+door	ADP	door
+eene	ART	een
+aangename	ADJ	aangenaam
+Briefwisseling.	NOU	briefwisseling
+UWEds	PRN_NOU	u_edele
+dank	NOU	dank
+betuygende	VRB	betuigen
+voor	ADP	voor
+dEer	ART_NOU	de_eer
+der	ART	de
+communicatie.	NOU	communicatie
+Bedanke	VRB	bedanken
+UEd	PRN	ue.
+voor	ADP	voor
+de	ART	de
+toegezondene	ADJ	toegezonden
+Boeken,	NOU	boek
+houde	VRB	houden
+my	PRN	mij
+daarontrent	ADV	daaromtrent
+Verder	ADV	verder
+gerécommandeert,	VRB	recommanderen
+dog	CON	doch
+niet	ADV	niet
+(Pro	ADV	pro	deo
+Déo.)	ADV	pro	deo
+Zo	CON	zo
+UEd	PRN	ue.
+geneegentheit	NOU	genegendheid
+mogte	VRB	mogen
+hebbe,	VRB	hebben
+ontrent	ADP	omtrent
+die	PRN	die
+kraam	NOU	kraam
+my	PRN	ik
+verder	ADV	verder
+iets	PRN	iets
+toe	VRB	toezenden
+te	ADP	te
+zenden,	VRB	toezenden
+is	VRB	zijn
+hier	ADV	hiermede
+goede	ADJ	goed
+Avans1	NOU	avance
+meede	ADV	hiermede
+te	ADP	te
+doen,	VRB	doen
+dog	CON	doch
+meest	ADV	meest
+Historisch,	ADJ	historisch
+Spectoraal,	ADJ	spectoraal
+Natuurkundig,	ADJ	natuurkundig
+en	CON	en
+Satyriecq.	ADJ?	satirisch
+Waartoe	ADV	waartoe
+bygaande	ADJ	bijgaand
+Nota	NOU	nota
+tot	ADP	tot
+UEd	PRN	ue.
+gouverno.	NOU	gouverno
+T.S.V.P.	UNRESOLVED	UNRESOLVED
+My	PRN	mij
+in	ADP	in
+UWEds	PRN_NOU	u_edele
+Waarde	ADJ	waard
+Vriendschap	NOU	vriendschap
+en	CON	en
+aandenking	NOU	aandenking
+Verder	ADV	verder
+aanbeveelende,	VRB	aanbevelen
+onder	ADP	onder
+toewensing,	NOU	toewensing
+van	ADP	van
+des	ART	de
+HEEREN	NOU	Heer
+Dierbaare	ADJ	dierbaar
+Zeegeningen	NOU	zegening
+over	ADP	over
+UWEds	PRN_NOU	u_edele
+Perzoonen	NOU	persoon
+en	CON	en
+onderneemingen,	NOU	onderneming
+Verzoekende	VRB	verzoeken
+Vriendelyk	ADV	vriendelijk
+UWEds	PRN_NOU	u_edele
+g’Eerde	ADJ	geëerd
+Ouders	NOU	ouder
+te	ADP	te
+groeten,	VRB	groeten
+en	CON	en
+gy	PRN	gij
+byde	NUM	beide
+elkandere,	PRN	elkaar
+met	ADP	met
+een	ART	een
+kus	NOU	kus
+der	ART	de
+Liefde	NOU	liefde
+en	CON	en
+toegeneegentheid	NOU	toegenegenheid
+mynentweegen	ADV	mijnentwege
+te	ADP	te
+omhelzen.	VRB	omhelzen
+Terwyl	CON	terwijl
+met	ADP	met
+alle	PRN	al
+agting	NOU	achting
+en	CON	en
+Liefde	NOU	liefde
+my	PRN	mij
+noeme.	VRB	noemen
+Mynheer	NOU	mijnheer
+&	CON	en
+Mejufvrouw	NOU	mejuffrouw
+Veel	ADV	veel
+Geliefde	ADJ	geliefd
+Neef,	NOU	neef
+en	CON	en
+Nicht.	NOU	nicht
+UWED	PRN_NOU	u_edele
+DWDnr	ADJ_NOU	dienstwillig_dienaar
+toegeneegene	ADJ	toegenegen
+en	CON	en
+Liefhebbende	ADJ	liefhebbend
+Oom.	NOU	oom
+Wrd	NEPER	Wernard
+V:Vloten	NEPER	Van	Vloten
+Rio	NELOC	Essequibo	3378741
+Essequebo	NELOC	Essequibo	3378741
+26	NUM	zesentwintig
+september	NOU	september
+1780	NUM	zeventienhonderdtachtig
+Nota	NOU	nota
+Van	ADP	van
+Boeken	NOU	boek
+&	CON	en
+[..][..]
+voor	ADP	voor
+d’Heer	ART_NOU	de_heer
+J.M.Van	NEPER_NEPER_NEPER	J._M._van	Vloten
+Vloten	NEPER_NEPER_NEPER	J._M._van	Vloten
+a	ADP	à
+Utrecht	NELOC	Utrecht	2745912
+om	CON	om
+te	ADP	te
+Zenden	VRB	zenden
+aan	ADP	aan
+Wrd	NEPER	Wernard
+VVloten	NEPER	Van	Vloten
+a	ADP	à
+Essequebo	NELOC	Essequibo	3378741
+Vaderlansche	ADJ	vaderlands
+Historie	NOU	historie
+Heedendaegsche	ADJ	hedendaags
+dito	ADJ	dito
+Martinet	NEPER	Martinet
+catechismus	NEOTHER	Katechismus	der	natuur
+der	NEOTHER	Katechismus	der	natuur
+Natuur	NEOTHER	Katechismus	der	natuur
+Christen	NEORG	Christen	Wysgeer
+Wysgeer	NEORG	Christen	Wysgeer
+de	NEORG	De	Mensch
+Mensch	NEORG	De	Mensch
+de	NEORG	De	Philosooph
+Philosooph	NEORG	De	Philosooph
+De	NEORG	De	Denker
+Denker	NEORG	De	Denker
+de	NEORG	De	Philantroop
+Philantrope	NEORG	De	Philantroop
+Maathappy	NEORG	Maatschappij	der	Wetenschappen
+der	NEORG	Maatschappij	der	Wetenschappen
+Weetenschappen	NEORG	Maatschappij	der	Wetenschappen
+de	NEORG	De	Bibliotheecq
+Bibliotheecq	NEORG	De	Bibliotheecq
+de	ART	de
+Werke	NEOTHER	Werken	van	Campo	Weyerman
+Van	NEOTHER	Werken	van	Campo	Weyerman
+Campo	NEOTHER	Werken	van	Campo	Weyerman
+Weyerman	NEOTHER	Werken	van	Campo	Weyerman
+’t	NEOTHER	't	Schertsend	Woordenboek
+schertsend	NEOTHER	't	Schertsend	Woordenboek
+Woordenboek	NEOTHER	't	Schertsend	Woordenboek
+de	ART	de
+Werke	NEOTHER	Werken	van	R.	Steele
+Van	NEOTHER	Werken	van	R.	Steele
+R	NEOTHER	Werken	van	R.	Steele
+Steele	NEOTHER	Werken	van	R.	Steele
+Fraeye	NEOTHER	Fraeye	Rysbeschryvinge
+Rysbeschrijvinge	NEOTHER	Fraeye	Rysbeschryvinge
+de	NEOTHER	De	oeffenschoole
+oeffenschoole.	NEOTHER	De	oeffenschoole
+Figuurlyk	NEOTHER	Figuurlyk	ABC-boek
+ABC	NEOTHER	Figuurlyk	ABC-boek
+Boek	NEOTHER	Figuurlyk	ABC-boek
+met	ADP	met
+P.l.	NOU	plaatje
+eenige,	PRN	enig
+dog	CON	doch
+goede	ADJ	goed
+SchoolBoekjes	NOU	schoolboekje
+voor	ADP	voor
+Eerstbeginnende	ADJ	eerstbeginnend
+kinderen.	NOU	kind
+Verder	ADV	verder
+gevorderde	ADJ	gevorderd
+Papier.	NOU	papier
+Pennen.	NOU	pen
+Lak	NOU	lakouwel
+ouwels.	NOU	lakouwel
+Prente	NOU	prentenboekje
+Boekjes	NOU	prentenboekje
+gemermert,	ADJ	gemarmerd
+en	CON	en
+gespickelt	ADJ	gespikkeld
+Papier.	NOU	papier
+Wat	PRN	wat
+geld	NOU	geld
+Chomel?	NEPER	Chomel
+en	CON	en
+de	ART	de
+Natuurkundige	NEOTHER	Natuurkundige	historie	van	ons	vaderland
+Historie	NEOTHER	Natuurkundige	historie	van	ons	vaderland
+Van	NEOTHER	Natuurkundige	historie	van	ons	vaderland
+ons	NEOTHER	Natuurkundige	historie	van	ons	vaderland
+Vaderlant,	NEOTHER	Natuurkundige	historie	van	ons	vaderland
+door	ADP	door
+Francq	NEPER	Le	Francq	van	Berkhey
+Van	NEPER	Le	Francq	van	Berkhey
+Berckey?	NEPER	Le	Francq	van	Berkhey
+</doc>
+</file>
